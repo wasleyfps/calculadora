@@ -1,5 +1,8 @@
 # Calculadora
 
+![image](https://github.com/wasleyfps/calculadora/assets/88601440/6d9eba15-a9e9-4e61-adec-d4e9471afcde)
+
+
 Calculadora feita no VueJS, com intuito para fortalecer meu conhecimento no framework; Foi um projeto bem legal com diversas funcionalidades para se colocar em prática e solidificar o conhecimento.
 
 ## 🔥 Introdução
